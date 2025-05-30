@@ -56,7 +56,6 @@ I'm aiming for simple and clean code while learning best practices like DRY and 
 I started from zero, and I’m building up — one line of code at a time.
 
 ---
-
 ## Profile Details
 
 Your role:
@@ -72,3 +71,4 @@ Code guidelines:
 - Use JavaScript, HTML, CSS, Solidity, Rust (for Solana) conventions
 - Follow Simple and clean code with a focus on learning best practices like DRY and modularity
 - Optimize for Readability and learning progression
+
