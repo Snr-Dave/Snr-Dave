@@ -1,48 +1,36 @@
-### Hi there 👋 I'm Snr-Dave!
-
-I'm an **aspiring Software Developer** and **Future Blockchain Builder** with a passion for learning, innovation, and problem-solving. I'm actively building my skills in **programming, version control, and web development**, preparing to create impactful solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=30A9DE&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+EZE.;Fullstack+Builder+%7C+Web3+Explorer+%7C+Bold+Mindset;" alt="Typing Banner" />
 
 ---
 
-#### 🚀 My Current Learning Path
+# 👑 EZE — Real, Bold, Curious
 
-* **Deepening my understanding of Git and GitHub** for collaborative development.
-* **Mastering JavaScript, React, and Node.js** to build robust web applications.
-* **Diving into Solana, Foundry, and Smart Contracts** for blockchain development.
-* **Reinforcing knowledge through practical, hands-on coding.**
+![Profile views](https://komarev.com/ghpvc/?username=Snr-Dave&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Snr-Dave?label=Follow&style=social)
+![Languages](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript)
+![Stack](https://img.shields.io/badge/Web3-Solana-purple?style=flat-square&logo=solana)
+![Copilot](https://img.shields.io/badge/Powered%20by-Microsoft%20Copilot-1f425f?style=flat-square)
 
----
-
-#### 💻 Tech I'm Exploring
-
-* **Languages:** JavaScript, HTML, CSS, Rust
-* **Version Control:** Git, GitHub
-* **Blockchain:** Solana, Etherum, Binance Web3 Basics
+> 🧠 I don’t just build code. I build narratives, tools, and products that spark curiosity and solve real problems.
 
 ---
 
-#### 🌟 About Me
+## 🔥 My Projects
 
-As an aspiring blockchain developer and web programmer, my core focus is on delivering user-friendly, well-tested, and maintainable applications. I'm particularly enthusiastic about blockchain technology and its potential to revolutionize industries. I believe in continuous learning, clean code, and effective problem-solving. My goal is to contribute to innovative projects and build solutions that truly matter.
-
----
-
-#### ✨ My Goals
-
-* Building intuitive user interfaces with **React**.
-* Integrating web applications with **Web3 technologies**.
-* Writing clean, secure, and maintainable smart contracts.
-
-I prioritize writing clean and simple code, adhering to principles like DRY (Don't Repeat Yourself) and modularity. I'm also deeply committed to continuous learning and progress.
+| 🚀 Project                  | 💼 Tech Stack                           | 🔍 Focus                           |
+|---------------------------|----------------------------------------|------------------------------------|
+| Okamah$Vesting            | React • Express • PostgreSQL • Solana | Referral Vault & Dashboard Logic  |
+| Boomchain Global Capital  | Web3 • GPT Agent • Wallet Integration  | Tokenized Finance & AI Agents     |
+| VaultBot (Offline Demo)   | TypeScript • React • GPT Flow Sim     | AI onboarding simulation           |
 
 ---
 
-#### 📫 Feel free to reach out:
+## 🧠 Skills & Stack
 
-[onuohauzodimadavid@gmail.com](mailto:onuohauzodimadavid@gmail.com)
-
----
-
-#### 😄 Fun Fact
-
-I started from zero, and I'm building up – one line of code at a time!
+```ts
+const skillset = {
+  frontend: ['React', 'Tailwind', 'TypeScript', 'Wouter'],
+  backend: ['Node.js', 'Express', 'PostgreSQL', 'Drizzle ORM'],
+  blockchain: ['Solana Wallets', 'Smart Logic'],
+  ai_integration: ['ChatGPT Agent (Demo)', 'API Workflows'],
+  tools: ['Git', 'Termux', 'GitHub CLI', 'Vercel']
+}
