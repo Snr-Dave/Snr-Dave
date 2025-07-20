@@ -1,37 +1,36 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=30A9DE&center=true&vCenter=true&width=435&lines=Welcome+to+$DAVE+Labs.;Ideas+in+Action+%7C+Code+as+Currency+%7C+Stacked+With+Vision;" alt="$DAVE Banner" />
+# 👋 Hi, I’m David — aka Snr-Dave
+
+🔐 Blockchain Developer  
+💻 Full-Stack Web3 Engineer  
+🚀 Vault Builder & Project Founder
+
+Welcome to my GitHub space — I build decentralized platforms with clear logic, smart architecture, and mobile-first usability.
 
 ---
 
-# 🧪 $DAVE +Labs — Experiments with Impact
+## 🧠 Highlights
 
-![Profile views](https://komarev.com/ghpvc/?username=Snr-Dave&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Snr-Dave?label=Follow&style=social)
-![Languages](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript)
-![Stack](https://img.shields.io/badge/Web3-Solana-purple?style=flat-square&logo=solana)
-![Brand](https://img.shields.io/badge/Identity-$DAVE%20%2B%20Labs-black?style=flat-square)
-![Copilot](https://img.shields.io/badge/Companion-Microsoft%20Copilot-30A9DE?style=flat-square)
-
-> 🔬 At $DAVE +Labs, every commit carries curiosity. Every repo is a prototype with potential.
+- Web3 Systems on Solana  
+- Full-stack builds with React, Node.js, PostgreSQL  
+- Secure vaults with referral logic and ROI tracking  
+- GPT-powered onboarding experiments  
+- CI/CD workflows using GitHub Actions + Termux
 
 ---
 
-## 💡 Lab Series Projects
+## 🔍 Project Spotlight
 
-| 🧬 Build                     | 🧰 Stack                                   | 🔍 Theme                            |
-|----------------------------|-------------------------------------------|-------------------------------------|
-| Okamah$Vesting             | React • Express • Solana • PostgreSQL     | Blockchain ROI + Referral Vault     |
-| Boomchain Global Capital   | AI Agent • Tokenized Wallet • GPT Routing | Decentralized Fintech Interface     |
-| VaultBot (Offline GPT Sim) | TypeScript • GPT Flow UI                  | Smart onboarding prototype          |
+**Okamah Vault**  
+Crypto investment dashboard with smart vault flow  
+→ [View Project](https://github.com/Snr-Dave/Okamah-Vault)
 
 ---
 
-## 🛠 Stack Inventory
+## 🛠 Tech Stack
 
 ```ts
-const $Dave_Lab_Stack = {
-  frontend: ['React', 'Tailwind', 'TypeScript', 'Shadcn UI'],
-  backend: ['Express', 'Drizzle ORM', 'PostgreSQL'],
-  blockchain: ['Solana Wallets', 'Smart Logic'],
-  ai_integrations: ['ChatGPT Agent (Boomchain)', 'API Simulations'],
-  toolbelt: ['Git', 'Termux', 'GitHub CLI', 'Render', 'Vercel']
-}
+const tech = [
+  'React', 'TypeScript', 'Tailwind',
+  'Express', 'Drizzle ORM', 'PostgreSQL',
+  'Solana Blockchain', 'GitHub CLI', 'Termux'
+];
