@@ -1,36 +1,51 @@
-# 👋 Hi, I’m David — aka Snr-Dave
+# Okamah$Vesting
 
-🔐 Blockchain Developer  
-💻 Full-Stack Web3 Engineer  
-🚀 Vault Builder & Project Founder
-
-Welcome to my GitHub space — I build decentralized platforms with clear logic, smart architecture, and mobile-first usability.
+Solana-powered investment dashboard for modern crypto users.
 
 ---
 
-## 🧠 Highlights
+## 🚀 Features
 
-- Web3 Systems on Solana  
-- Full-stack builds with React, Node.js, PostgreSQL  
-- Secure vaults with referral logic and ROI tracking  
-- GPT-powered onboarding experiments  
-- CI/CD workflows using GitHub Actions + Termux
-
----
-
-## 🔍 Project Spotlight
-
-**Okamah Vault**  
-Crypto investment dashboard with smart vault flow  
-→ [View Project](https://github.com/Snr-Dave/Okamah-Vault)
+- **JWT authentication**  
+- **Wallet credit system**  
+- **Manual Solana wallet deposits**  
+- **7-day investment plans (2–3.5% daily ROI)**  
+- **Referral tracking**  
+- **Withdrawal requests (admin approval)**  
+- **Public explainer site with live chat**
 
 ---
 
 ## 🛠 Tech Stack
 
-```ts
-const tech = [
-  'React', 'TypeScript', 'Tailwind',
-  'Express', 'Drizzle ORM', 'PostgreSQL',
-  'Solana Blockchain', 'GitHub CLI', 'Termux'
-];
+- React + TypeScript (frontend)
+- Express + Node.js (backend)
+- PostgreSQL (database)
+- Solana blockchain
+- REST API
+- GitHub Actions (CI/CD)
+
+---
+
+## 📦 Setup
+
+1. Clone the repo:  
+   `git clone https://github.com/Snr-Dave/Okamah-Vesting.git`
+2. Install dependencies:  
+   `cd okamah-vesting && npm install`
+3. Configure environment:  
+   Copy `.env.example` to `.env` and fill in your settings.
+4. Start development:  
+   `npm run dev`
+
+---
+
+## 📱 Mobile Friendly
+
+Designed for phone browsers & minimal workflows.
+
+---
+
+## 👋 Author
+
+David ([@Snr-Dave](https://github.com/Snr-Dave))
