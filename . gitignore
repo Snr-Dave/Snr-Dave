@@ -1,0 +1,11 @@
+# Dependency directory
+/node_modules
+/venv
+
+# Runtime data
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+.env
